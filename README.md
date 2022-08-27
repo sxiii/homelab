@@ -1,4 +1,4 @@
-# Khue's Homelab
+# Security XIII's Homelab
 
 **[Features](#features) • [Get Started](#get-started) • [Documentation](https://homelab.khuedoan.com)**
 
