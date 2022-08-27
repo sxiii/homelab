@@ -13,10 +13,10 @@ import sys
 
 from rich.prompt import Confirm, Prompt
 
-default_seed_repo = "https://github.com/khuedoan/homelab"
-default_domain = "khuedoan.com"
-default_timezone = "Asia/Ho_Chi_Minh"
-default_terraform_workspace = "khuedoan"
+default_seed_repo = "https://github.com/sxiii/homelab"
+default_domain = "lab.sxiii.ru"
+default_timezone = "Europe/Oslo"
+default_terraform_workspace = "homelab-external"
 
 
 def check_python_version(required_version: str) -> None:
